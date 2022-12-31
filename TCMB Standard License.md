@@ -1,6 +1,5 @@
-TCMB Standard License v1.1
-©2022 TCMB Project
-
+TCMB Standard License v1.1  
+©2022 TCMB Project  
 このライセンスの内容を一言一句そのままに複製することを認める。しかし、改変は認めない。
 
 このライセンスはドラフトであり、ソフトウェアに適用することはできません。修正は[TCMB-License](https://github.com/TCMB-Project/TCMB-License)にIssuesまたはPull Requestで送信してください。
